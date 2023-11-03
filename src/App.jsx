@@ -1,9 +1,9 @@
-import './App.css';
+import "./styles/reset.css";
+import "@fontsource/roboto";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
-  return (
-    <></>
-  );
+  return <></>;
 }
 
 export default App;
